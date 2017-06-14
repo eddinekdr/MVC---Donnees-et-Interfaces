@@ -1,0 +1,14 @@
+<resultats>
+  <requête>
+    <date>01/01/02</date>
+  </requête>
+  <Crime>
+    <id>15527</id>
+    <date>01/01/02</date>
+    <borough>az</borough>
+    <Coord_X>4</Coord_X>
+    <Coord_Y>5</Coord_Y>
+    <Description>a</Description>
+    <Jurisdiction>4</Jurisdiction>
+  </Crime>
+</resultats>

@@ -1,0 +1,84 @@
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\bin\Debug\TD_MVC.exe.config
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\bin\Debug\TD_MVC.exe
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\bin\Debug\TD_MVC.pdb
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\TD_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\AjoutDelit.g.cs
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\MainWindow.g.cs
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\App.g.cs
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\TD_MVC_MarkupCompile.cache
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\TD_MVC_MarkupCompile.lref
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\AjoutDelit.baml
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\MainWindow.baml
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\TD_MVC.g.resources
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\TD_MVC.Properties.Resources.resources
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\TD_MVC.csproj.GenerateResource.Cache
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\TD_MVC.exe
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\TD_MVC.pdb
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\bin\Debug\MySql.Data.dll
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\V_Recherche.g.cs
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\V_Recherche.baml
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\V_Ajout.g.cs
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\TD_MVC\TD_MVC\obj\Debug\V_Ajout.baml
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\bin\Debug\TD_MVC.exe.config
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\TD_MVC.exe
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\TD_MVC.pdb
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\bin\Debug\TD_MVC.exe
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\bin\Debug\TD_MVC.pdb
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\TD_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\AjoutDelit.g.cs
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\MainWindow.g.cs
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\V_Ajout.g.cs
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\V_Recherche.g.cs
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\App.g.cs
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\TD_MVC_MarkupCompile.cache
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\TD_MVC_MarkupCompile.lref
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\AjoutDelit.baml
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\MainWindow.baml
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\V_Ajout.baml
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\V_Recherche.baml
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\TD_MVC.g.resources
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\TD_MVC.Properties.Resources.resources
+C:\Users\Salim\OneDrive\TD_MVC\TD_MVC\obj\Debug\TD_MVC.csproj.GenerateResource.Cache
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\LAABI_Salim_MVC\TD_MVC\bin\Debug\TD_MVC.exe.config
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_MVC.exe
+C:\Users\Salim\Desktop\Cours Salim\Année 3\S6\MVC\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_MVC.pdb
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\AjoutDelit.g.cs
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\MainWindow.g.cs
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\V_Ajout.g.cs
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\V_Recherche.g.cs
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\App.g.cs
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\AjoutDelit.baml
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\MainWindow.baml
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\V_Ajout.baml
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\V_Recherche.baml
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_MVC.csproj.GenerateResource.Cache
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\bin\Debug\TD_Final_MVC.exe.config
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\bin\Debug\TD_Final_MVC.exe
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\bin\Debug\TD_Final_MVC.pdb
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_Final_MVC_MarkupCompile.cache
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_Final_MVC_MarkupCompile.lref
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_Final_MVC.g.resources
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_Final_MVC.Properties.Resources.resources
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_Final_MVC.exe
+C:\Users\Eddine\Desktop\LAABI_Salim_MVC\TD_MVC\obj\Debug\TD_Final_MVC.pdb
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\bin\Debug\TD_Final_MVC.exe.config
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\bin\Debug\TD_Final_MVC.exe
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\bin\Debug\TD_Final_MVC.pdb
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\TD_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\AjoutDelit.g.cs
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\MainWindow.g.cs
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\V_Ajout.g.cs
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\V_Recherche.g.cs
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\App.g.cs
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\TD_Final_MVC_MarkupCompile.cache
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\TD_Final_MVC_MarkupCompile.lref
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\AjoutDelit.baml
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\MainWindow.baml
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\V_Ajout.baml
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\V_Recherche.baml
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\TD_Final_MVC.g.resources
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\TD_Final_MVC.Properties.Resources.resources
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\TD_MVC.csproj.GenerateResource.Cache
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\TD_Final_MVC.exe
+C:\Users\Eddine\Desktop\KOUIDER_Kheir-Eddine_MVC\TD_MVC\obj\Debug\TD_Final_MVC.pdb

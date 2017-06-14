@@ -1,0 +1,8 @@
+<!ELEMENT resultats(requete, crime ∗)>
+<!ELEMENT requete(id ?, date ?, quartier ?,  (desc_crime, desc_specifity ?)? )>
+<!ELEMENT crime(date, quartier, desc_crime, desc_specificity, jurisdiction)>
+<!ELEMENT date(#PCDATA)>
+<!ELEMENT quartier(#PCDATA)>
+<!ELEMENT desc_crime(#PCDATA)>
+<!ELEMENT desc_specificity(#PCDATA)>
+<!ELEMENT jurisdiction(#PCDATA)>
